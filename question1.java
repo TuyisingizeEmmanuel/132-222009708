@@ -1,4 +1,4 @@
-class SI {
+class SI {//class declaration
     public static float multp(int P, int T, int R) {
         return (P * T * R) / 100;
     }
